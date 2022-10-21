@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋 I am a Software Developer | Freelancer | Entreprenuer 
+- 🔭 I’m currently working on SME/VTU Portal Creation Using Flask
+- 🌱 I’m currently learning Flask
+- 👯 I’m looking to collaborate on Software Projects
+- 🤔 I’m looking for help with Connections
+- 💬 Ask me about PHP, JS, Python
+- 📫 How to reach me: https://ibrobk.ga
+- 😄 Pronouns: He
+- ⚡ Fun fact: I don't look like I know Code!
 
 <!--
 **ibrobk2/ibrobk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
