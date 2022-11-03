@@ -7,6 +7,7 @@
 - 📫 How to reach me: https://ibrobk.ga
 - 😄 Pronouns: He
 - ⚡ Fun fact: I don't look like I know Code!
+- ✨ I am master of my game.
 
 <!--
 **ibrobk2/ibrobk2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
