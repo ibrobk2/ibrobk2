@@ -1,7 +1,7 @@
 ### Hi there 👋 I am a Software Developer | Freelancer | Entreprenuer 
 - 🔭 I’m currently working on SME/VTU Portal Script Development
 - 🌱 I’m currently learning Flutter, Sales Skills and Cryptography
-- 👯 I’m looking to collaborate on Software Projects
+- 👯 I’m looking to collaborate on Software Based Projects
 - 🤔 I’m looking for help with Connections
 - 💬 Ask me about PHP, JS, Python, MySQL, Postgres, SQL, Firebase, AWS, GCP, Github, Cyber Security, Java...
 - 📫 How to reach me: https://ibrobk.ga
