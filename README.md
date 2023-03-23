@@ -1,12 +1,12 @@
 ### Hi there 👋 I am a Software Developer | Freelancer | Entreprenuer 
-- 🔭 I’m currently working on SME/VTU Portal Creation Using Flask
-- 🌱 I’m currently learning Flask and Django
+- 🔭 I’m currently working on SME/VTU Portal Script Development
+- 🌱 I’m currently learning Flutter, Sales Skills and Cryptography
 - 👯 I’m looking to collaborate on Software Projects
 - 🤔 I’m looking for help with Connections
-- 💬 Ask me about PHP, JS, Python, Postgres, SQL, Firebase, AWS, GCP
+- 💬 Ask me about PHP, JS, Python, MySQL, Postgres, SQL, Firebase, AWS, GCP, Github, Cyber Security, Java...
 - 📫 How to reach me: https://ibrobk.ga
 - 😄 Pronouns: He
-- ⚡ Fun fact: I don't look like I know Code!
+- ⚡ Fun fact About Me: I don't look like I know How to Code!
 - ✨ I am master of my game.
 
 <!--
