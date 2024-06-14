@@ -1,5 +1,5 @@
 ### Hi there 👋 I am a Software Developer | Freelancer | Entreprenuer 
-- 🔭 I’m currently teaching SME/VTU Portal Script Development Course Online.
+- 🔭 I’m currently teaching SME/VTU Portal Script Development Course Online/Offline.
 - 🌱 I’m currently learning Flutter, Sales Skills and Cryptography
 - 👯 I’m looking to collaborate on Software Based Projects
 - 🤔 I’m looking for help with Connections
