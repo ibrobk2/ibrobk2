@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter, Sales Skills and Cryptography
 - 👯 I’m looking to collaborate on Software Based Projects
 - 🤔 I’m looking for help with Connections
-- 💬 Ask me about PHP, JS, Python, MySQL, Postgres, SQL, Firebase, AWS, GCP, Github, ReactJs, Nodejs/Express, Cyber Security, Java, C#, React Native...
+- 💬 Ask me about PHP, JS, Python, MySQL, Postgres, SQL, Firebase, AWS, GCP, Github, ReactJs, Nodejs/Express, Cyber Security, Java, C#, React Native, Blockchain...
 - 📫 How to reach me: ibrobk@esystems.ng
 - 😄 Pronouns: He
 - ⚡ Fun fact About Me: I don't look like I know How to Code!
