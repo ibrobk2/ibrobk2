@@ -2,6 +2,7 @@
 - 🔭 I’m currently teaching SME/VTU Portal Script Development Course Online/Offline.
 - 🌱 I’m currently learning Flutter, Sales Skills and Cryptography
 - 👯 I’m looking to collaborate on Software Based Projects
+- ✨   AI and Machine Learning are my new comforts tools
 - 🤔 I’m looking for help with Connections
 - 💬 Ask me about PHP, JS, Python, MySQL, Postgres, SQL, Firebase, AWS, GCP, Github, ReactJs, Nodejs/Express, Cyber Security, Java, C#, React Native, Blockchain...
 - 📫 How to reach me: ibrobk@esystems.ng
